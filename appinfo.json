@@ -1,0 +1,17 @@
+{
+  "uuid": "39284109-dec7-40ef-82f1-a503a4ac13a2",
+  "shortName": "pebble8ball",
+  "longName": "pebble8ball",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
