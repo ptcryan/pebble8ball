@@ -1,8 +1,8 @@
 {
   "uuid": "39284109-dec7-40ef-82f1-a503a4ac13a2",
   "shortName": "pebble8ball",
-  "longName": "pebble8ball",
-  "companyName": "MakeAwesomeHappen",
+  "longName": "Pebble 8 Ball",
+  "companyName": "David Ryan",
   "versionCode": 1,
   "versionLabel": "1.0.0",
   "watchapp": {
@@ -12,6 +12,11 @@
     "dummy": 0
   },
   "resources": {
-    "media": []
+    "media": [{
+      "type": "png",
+      "name": "8ball",
+      "file": "8ball.png",
+      "menuIcon": true
+    }]
   }
 }
