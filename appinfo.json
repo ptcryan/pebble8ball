@@ -1,22 +1,32 @@
 {
-  "uuid": "39284109-dec7-40ef-82f1-a503a4ac13a2",
-  "shortName": "Pebble 8 Ball",
-  "longName": "Pebble 8 Ball",
-  "companyName": "David Ryan",
-  "versionCode": 1,
-  "versionLabel": "1.0.0",
-  "watchapp": {
-    "watchface": false
-  },
-  "appKeys": {
-    "dummy": 0
-  },
-  "resources": {
-    "media": [{
-      "type": "png",
-      "name": "8ball",
-      "file": "8ball.png",
-      "menuIcon": true
-    }]
-  }
+    "appKeys": {
+        "dummy": 0
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "David Ryan",
+    "longName": "Pebble 8 Ball",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/8ball.png",
+                "menuIcon": true,
+                "name": "8ball",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Pebble 8 Ball",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "39284109-dec7-40ef-82f1-a503a4ac13a2",
+    "versionLabel": "1.1",
+    "watchapp": {
+        "watchface": false
+    }
 }
